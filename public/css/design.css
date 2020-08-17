@@ -1,0 +1,7 @@
+.banner {
+    background-size: cover;
+    height: 80vh;
+    background-image: "url('assets/images/jobportal.jpeg')";
+    background-position: center;
+    width: 1340px;
+}

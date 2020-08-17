@@ -1,8 +1,46 @@
 @extends('layouts.app')
 
-   
+  
 
 @section('content')
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JOB PORTAL -Webpage</title>
+</head>
+<body>
+	<div class="banner text-center">
+		<h1>HUNT YOUT JOB</h1>
+		<p>Your Job is here!</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="container">
 
